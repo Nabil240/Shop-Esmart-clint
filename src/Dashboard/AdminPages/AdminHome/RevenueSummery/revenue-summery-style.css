@@ -1,0 +1,15 @@
+.total-revenue {
+    background: linear-gradient(to right, #34D399, #10B981); /* Green gradient */
+}
+
+.total-coupon-discount {
+    background: linear-gradient(to right, #60A5FA, #3B82F6); /* Blue gradient */
+}
+
+.total-profit {
+    background: linear-gradient(to right, #FBBF24, #D97706); /* Yellow gradient */
+}
+
+.total-products-discount {
+    background: linear-gradient(to right, #F87171, #EF4444); /* Red gradient */
+}

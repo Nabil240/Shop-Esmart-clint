@@ -1,0 +1,45 @@
+/* custom.css */
+
+/* Total Orders Gradient */
+.total-orders {
+    background: linear-gradient(to right, #60a5fa, #3b82f6);
+}
+
+/* Pending Orders Gradient */
+.pending-orders {
+    background: linear-gradient(to right, #fbbf24, #f59e0b);
+}
+
+/* Confirmed Orders Gradient */
+.confirmed-orders {
+    background: linear-gradient(to right, #4ade80, #22c55e);
+}
+
+/* On Courier Orders Gradient */
+.on-courier-orders {
+    background: linear-gradient(to right, #a855f7, #9333ea);
+}
+
+/* Delivered Orders Gradient */
+.delivered-orders {
+    background: linear-gradient(to right, #2dd4bf, #14b8a6);
+}
+
+/* Canceled Orders Gradient */
+.canceled-orders {
+    background: linear-gradient(to right, #f87171, #ef4444);
+}
+
+/* Returned Orders Gradient */
+.returned-orders {
+    background: linear-gradient(to right, #ec4899, #db2777);
+}
+
+/* Total Users Gradient */
+.total-users {
+    background: linear-gradient(to right, #d1d5db, #9ca3af);
+}
+/* Total Users Gradient */
+.total-transaction {
+    background: linear-gradient(to right,#f373f3 , #e806f4 );
+}

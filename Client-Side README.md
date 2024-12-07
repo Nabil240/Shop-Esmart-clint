@@ -1,8 +1,6 @@
 ## Links to Deployment and Code
-- **Live Link (Client-side hosted on Firebase):** [Live Link](https://shopesmart-51ca8.web.app/dashboard)
-- **Server-side hosted on Vercel:** [Server Link](https://esmart-navy.vercel.app/)
-- **Client-side GitHub repository:** [Client Repo](https://github.com/MozzammelRidoy/shop-esmart-client)
-- **Server-side GitHub repository:** [Server Repo](https://github.com/MozzammelRidoy/shop-esmart-server)
+- **Live Link (Client-side hosted on Firebase):** [Live Link](https://mern-1cda9.web.app/)
+- **Server-side hosted on Vercel:** [Server Link](http://localhost:5000/)
 
 # E-commerce Project Client Overview (Shop esmart)
 
@@ -113,12 +111,6 @@ Shop esmart is a comprehensive e-commerce platform built using the MERN stack (M
 - **Dynamic Product Recommendations:** Based on tracked behaviors, users will receive tailored product suggestions in a section like "For You," enhancing the shopping experience through intelligent recommendations.
 - **Real-time Data Processing:** Future updates will incorporate real-time data processing capabilities, enabling live updates for products, chat interactions, and instant notifications to users.
 - **Enhanced User Experience:** Continued improvements to the UI/UX design, ensuring that users have a pleasant and intuitive shopping experience.
-
-## Links to Deployment and Code
-- **Live Link (Client-side hosted on Firebase):** [Live Link](https://shopesmart-51ca8.web.app/dashboard)
-- **Server-side hosted on Vercel:** [Server Link](https://esmart-navy.vercel.app/)
-- **Client-side GitHub repository:** [Client Repo](https://github.com/MozzammelRidoy/shop-esmart-client)
-- **Server-side GitHub repository:** [Server Repo](https://github.com/MozzammelRidoy/shop-esmart-server)
 
 
 ## Environment Variables Key

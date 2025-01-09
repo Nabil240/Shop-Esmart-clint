@@ -1,9 +1,3 @@
-## Links to Deployment and Code
-- **Live Link (Client-side hosted on Firebase):** [Live Link](https://shopesmart-51ca8.web.app/dashboard)
-- **Admin_Email :** admin123@mail.com **Password:** Password!23
-- **Server-side hosted on Vercel:** [Server Link](http://localhost:5000/)
-- **Client-side GitHub repository:** [Client Repo](https://github.com/MozzammelRidoy/shop-esmart-client)
-- **Server-side GitHub repository:** [Server Repo](https://github.com/MozzammelRidoy/shop-esmart-server)
 
 # E-commerce Project Client Overview (Shop esmart)
 
